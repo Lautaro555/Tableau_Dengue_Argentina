@@ -2,7 +2,7 @@
 
 # Dashboard con informacion de los casos de dengue en argentina desde el año 2018-2021
 
-Este dashboard fue hecho con el fin de aprender a utilizar la herramienta de visualizacion de datos tableau.
+Este dashboard fue hecho con el fin de aprender a utilizar la herramienta de visualizacion de datos Tableau.
 
 Para este dashboard se utilizaron datasets disponibles publicamente en la pagina [https://www.datos.gob.ar/](https://www.datos.gob.ar/https:/)
 
